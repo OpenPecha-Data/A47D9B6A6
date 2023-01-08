@@ -1,0 +1,19 @@
+id: A47D9B6A6
+title: 'Song of Devotion: A Prayer to Lord Marpa Lotsāwa'
+type: translation
+pechas:
+- IA1F2FAA8
+- I4762C51E
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:01:30.982089
+  last_modified_at: 2023-01-04 13:01:30.982108
+  collections:
+  - Marpa Lotsāwa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IA1F2FAA8/E8D8: 381A
+  I4762C51E/7532: 381A
